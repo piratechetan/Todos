@@ -4,17 +4,17 @@
 
 ## Screenshots
 <img src="https://www.linkpicture.com/q/Screenshot_2021-11-07-18-03-17-770_com.todos_google-pixel4-ohsoorange-portrait.png" width=300 align="left"/>
-<img src="https://www.linkpicture.com/q/Screenshot_2021-11-07-18-03-20-009_com.todos_google-pixel4-ohsoorange-portrait.png" width=300 align="left"/>
-<img src="https://www.linkpicture.com/q/Screenshot_2021-11-07-18-05-04-920_com.todos_google-pixel4-ohsoorange-portrait.png" width=300 align="left"/>
+<img src="https://www.linkpicture.com/q/Screenshot_2021-11-07-18-03-20-009_com.todos_google-pixel4-ohsoorange-portrait.png" width=300 align="right"/>
+<img src="https://www.linkpicture.com/q/Screenshot_2021-11-07-18-05-04-920_com.todos_google-pixel4-ohsoorange-portrait.png" width=300 align="right"/>
 <img src="https://www.linkpicture.com/q/Screenshot_2021-11-07-18-05-09-341_com.todos_google-pixel4-ohsoorange-portrait.png" width=300 align="left"/>
-<img src="https://www.linkpicture.com/q/Screenshot_2021-11-07-18-05-12-379_com.todos_google-pixel4-ohsoorange-portrait.png" width=300 align="left"/>
-<img src="https://www.linkpicture.com/q/Screenshot_2021-11-07-18-05-17-370_com.todos_google-pixel4-ohsoorange-portrait.png" width=300 align="left"/>
+<img src="https://www.linkpicture.com/q/Screenshot_2021-11-07-18-05-12-379_com.todos_google-pixel4-ohsoorange-portrait.png" width=300 align="right"/>
+<img src="https://www.linkpicture.com/q/Screenshot_2021-11-07-18-05-17-370_com.todos_google-pixel4-ohsoorange-portrait.png" width=300 align="right"/>
 
 
 ## Demo
 <img src="https://im4.ezgif.com/tmp/ezgif-4-3c84c7cc9c49.gif" width=300 align="left" style="margin-bottom: 30px"/>
-<img src="https://im4.ezgif.com/tmp/ezgif-4-ffbec9c51684.gif" width=300 align="left" style="margin-bottom: 30px"/>
-<img src="https://im4.ezgif.com/tmp/ezgif-4-1bf48ed331ca.gif" width=300 align="left" style="margin-bottom: 30px"/>
+<img src="https://im4.ezgif.com/tmp/ezgif-4-ffbec9c51684.gif" width=300 align="right" style="margin-bottom: 30px"/>
+<img src="https://im4.ezgif.com/tmp/ezgif-4-1bf48ed331ca.gif" width=300 align="right"" style="margin-bottom: 30px"/>
 
 
 
