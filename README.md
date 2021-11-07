@@ -4,11 +4,11 @@
 
 ## Screenshots
 <img src="https://www.linkpicture.com/q/Screenshot_2021-11-07-18-03-17-770_com.todos_google-pixel4-ohsoorange-portrait.png" width=300 align="left"/>
-<img src="https://www.linkpicture.com/q/Screenshot_2021-11-07-18-03-20-009_com.todos_google-pixel4-ohsoorange-portrait.png" width=300 align="right"/>
-<img src="https://www.linkpicture.com/q/Screenshot_2021-11-07-18-05-04-920_com.todos_google-pixel4-ohsoorange-portrait.png" width=300 align="right"/>
-<img src="https://www.linkpicture.com/q/Screenshot_2021-11-07-18-05-09-341_com.todos_google-pixel4-ohsoorange-portrait.png" width=300 align="left"/>
-<img src="https://www.linkpicture.com/q/Screenshot_2021-11-07-18-05-12-379_com.todos_google-pixel4-ohsoorange-portrait.png" width=300 align="right"/>
-<img src="https://www.linkpicture.com/q/Screenshot_2021-11-07-18-05-17-370_com.todos_google-pixel4-ohsoorange-portrait.png" width=300 align="right"/>
+<img src="https://www.linkpicture.com/q/Screenshot_2021-11-07-18-03-20-009_com.todos_google-pixel4-ohsoorange-portrait.png" width=300 />
+<img src="https://www.linkpicture.com/q/Screenshot_2021-11-07-18-05-04-920_com.todos_google-pixel4-ohsoorange-portrait.png" width=300 />
+<img src="https://www.linkpicture.com/q/Screenshot_2021-11-07-18-05-09-341_com.todos_google-pixel4-ohsoorange-portrait.png" width=300 />
+<img src="https://www.linkpicture.com/q/Screenshot_2021-11-07-18-05-12-379_com.todos_google-pixel4-ohsoorange-portrait.png" width=300 />
+<img src="https://www.linkpicture.com/q/Screenshot_2021-11-07-18-05-17-370_com.todos_google-pixel4-ohsoorange-portrait.png" width=300 />
 
 
 ## Demo
