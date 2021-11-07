@@ -80,11 +80,11 @@ return (
         return(
             <View key={item.id}>
               <View>
-                <View style={{backgroundColor:'#fff',marginHorizontal:15,elevation:2,flexDirection:'row',alignItems:'center',marginTop:15,padding:20,justifyContent:'space-between'}}>
+                <View style={{backgroundColor:'#fff',marginHorizontal:15,elevation:2,flexDirection:'row',alignItems:'center',marginTop:15,padding:10,justifyContent:'space-between'}}>
                   <View style={{flexDirection:'row',alignItems:'center'}}>
-                  <View style={{backgroundColor:item.color,width:7,height:30,marginRight:10,borderRadius:10}}/>
+                  <View style={{backgroundColor:item.color,width:5,height:40,marginRight:15,borderRadius:10}}/>
                  <Checkbox value="test" accessibilityLabel="This is a dummy checkbox"  isChecked={item.isComplete} onChange={()=>markComplete(item.id)} colorScheme={item.color}/>
-                <View style={{marginLeft:10}}>
+                <View style={{marginLeft:15}}>
                 <Text style={{fontSize:20,color:'#000',textDecorationLine:item.isComplete ? 'line-through': undefined}}>{item.Name}</Text>
                 <Text style={{fontSize:13,color:'#000'}}>{item.Hours}</Text>
                 </View>
